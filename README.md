@@ -24,7 +24,7 @@ Use the sample images or ANY dogs or cats images `png` format
 
 Example:
 
-![alt text](https://github.com/vamshigunji183/DL_webapp/readme/dog-prediction.jpg "DOG PREDICTION EXAMPLE") ![alt text](https://github.com/vamshigunji183/DL_webapp/readme/dog-prediction-1.jpg "DOG PREDICTION EXAMPLE")
+![alt text](https://github.com/vamshigunji183/DL_webapp/readme/dog-prediction.JPG "DOG PREDICTION EXAMPLE") ![alt text](https://github.com/vamshigunji183/DL_webapp/readme/dog-prediction-1.JPG "DOG PREDICTION EXAMPLE")
 
-![alt textalt text](https://github.com/vamshigunji183/DL_webapp/readme/cat-prediction.jpg "CAT PREDICTION EXAMPLE")
-![alt text](https://github.com/vamshigunji183/DL_webapp/readme/cat-prediction-1.jpg "CAT PREDICTION EXAMPLE")
+![alt textalt text](https://github.com/vamshigunji183/DL_webapp/readme/cat-prediction.JPG "CAT PREDICTION EXAMPLE")
+![alt text](https://github.com/vamshigunji183/DL_webapp/readme/cat-prediction-1.JPG "CAT PREDICTION EXAMPLE")
