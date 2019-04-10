@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 def get_model():
     global model
-    model = load_model("<--TRAINED MODEL--.h5>")
+    model = load_model("VGG16_cats_and_dogs.h5")
     model._make_predict_function()
     print("*.Model loaded!")
 
